@@ -1,0 +1,4 @@
+first run the crawler , stop it manually 
+then run the html downloading script 
+then run the pre processing script 
+then run the search_app.py
